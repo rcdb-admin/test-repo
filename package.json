@@ -1,0 +1,8 @@
+{
+  "name": "slash-command-lambda-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/amuratova/slash-command-lambda-backend.git",
+  "author": "Anna Muratova <amu@dvhb.ru>",
+  "license": "MIT"
+}
