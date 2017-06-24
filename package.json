@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/amuratova/slash-command-lambda-backend.git",
   "author": "Anna Muratova <amu@dvhb.ru>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "qs": "^6.4.0"
+  }
 }
