@@ -10,3 +10,7 @@
 ## Setup
 - Clone Git repository
   - `$ git clone https://github.com/amuratova/slash-command-lambda-backend.git`
+- Install Serverless Framework
+  - `$ yarn global add serverless`
+- Add yarn binary directory to your `~/.bash_profile`
+  - `export PATH=$PATH:/usr/local/Cellar/node/8.1.2/bin` 
