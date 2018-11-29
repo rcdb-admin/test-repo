@@ -1,4 +1,4 @@
-# slash-command-lambda-backend
+# will delete this
 
 ## Requirements
 
